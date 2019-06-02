@@ -16,7 +16,7 @@ curiosidad, diversión  y ayudar a algunas personas que probablemente esten en b
 ```
 
 ### Probar proyecto
-Puedes descargar directamente el jar correspondiente al [proyecto](https://github.com/santoslopez/semaforo/blob/master/jar-semaforo/Semaforo.jar)  
+Puedes descargar directamente el jar correspondiente al [proyecto](https://github.com/santoslopez/semaforo/raw/master/jar-semaforo/Semaforo.jar)  
 
 ### No me abre el Jar
 Necesitan tener instalado el JDK de java en sus computadoras, pueden visitar el siguiente vídeo como referencia de [ayuda](https://www.youtube.com/watch?v=kPWezAZGPks), aunque en el vídeo se aplica el ejemplo en Windows 10 esto es equivalente
