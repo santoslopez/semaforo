@@ -3,9 +3,9 @@
 ### Información de clases - ImagenInicio.java y Semaforo.java
 
 
-La clase ImagenInicio.java contiene la imagen por defecto del semáforo (imagen en rojo). Para ver el código de la clase visita el siguiente [enlace](https://github.com/santoslopez/semaforo/blob/master/src/ImagenInicio.java) 
+La clase ImagenInicio.java contiene la imagen por defecto del semáforo (imagen en rojo).
 
-La clase Semaforo.java cambia el color del semáforo (imagen rojo, amarillo y verde). Para ver el código de la clase visita el siguiente [enlace](https://github.com/santoslopez/semaforo/blob/master/src/Semaforo.java) 
+La clase Semaforo.java cambia el color del semáforo (imagen rojo, amarillo y verde). 
 
 ### Agradecimiento
 Este proyecto fue realizado gracias al vídeo tutorial de [ZimbronApps](https://www.youtube.com/watch?v=9asFkWyrd58) 
